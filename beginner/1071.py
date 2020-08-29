@@ -20,7 +20,6 @@ else:
     m_InputY += 2
 
 for i in range(m_InputY, m_InputX, 2):
-    print("i:", i)
     m_OddSum += i
 
 print(m_OddSum)
